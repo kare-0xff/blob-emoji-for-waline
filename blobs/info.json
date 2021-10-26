@@ -1,7 +1,7 @@
 {
     "name": "blob", 
     "prefix": "",
-    "type": ["png","gif"],
+    "type": "png",
     "icon": "blob3c",
     "items": [
         "ab1nzyblob2",
