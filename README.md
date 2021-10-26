@@ -1,3 +1,56 @@
+
+# Blob 表情包
+## 来源
+表情包来自[blobs.gg] （https://blobs.gg）
+
+
+Emojis copied from Blob.cat.
+
+## 在 waline 评论系统中使用
+waline 是什么 / What is waline：https://waline.js.org/
+
+# Blobcat 表情包
+
+## 来源
+
+表情包来自 [Blob.cat](https://blob.cat) 实例。
+
+Emojis copied from [Blob.cat](https://blob.cat).
+
+
+## 在 [waline](https://waline.js.org/)评论系统中使用
+
+将一下链接添加到 emoji 选项中
+### Blob-gif
+
+``` markdown
+https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-gif
+```
+
+### Blob-png
+
+``` markdown
+https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-png
+```markdown
+ https://cdn.jsdelivr.net/gh/sowhereso/waline-blobcatemojis@1.3/blobs
+ ```
+
+
+## 效果
+- gif（可以动，此图为截图而已）
+![](https://raw.githubusercontent.com/norevi/image/main/img202110270347159.png)
+- png
+![](https://raw.githubusercontent.com/norevi/image/main/img202110270348388.png)
+
+## 常见问题
+
+#### 表情不显示
+见 waline issue :[自定义表情无法正常显示 #265](https://github.com/walinejs/waline/issues/265)
+
+#### waline整个都不见了
+- 如果用的是safari，可能会出现“Failed to load resource: Load cannot follow more than 20 redirections”报错，建议换个浏览器看看能不能显示
+
+--- 
 # emoj.ml
 ### Welcome, friend.
 These blobs/emoji were sourced from https://blobs.gg under the same Apache License used for this website and repository.
