@@ -3,11 +3,12 @@
 ## 来源
 
 表情包来自 [Blob.cat](https://blob.cat) 实例。
+
 Emojis copied from [Blob.cat](https://blob.cat).
 
 ## 在 [waline](https://waline.js.org/)评论系统中使用
 
-将一下链接添加到 emoji 选项中
+将以下链接添加到 emoji 选项中
 ### Blob-gif
 
 ``` markdown
@@ -17,9 +18,8 @@ https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-gif
 ### Blob-png
 ``` markdown
 https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-png
-```markdown
- https://cdn.jsdelivr.net/gh/sowhereso/waline-blobcatemojis@1.3/blobs
- ```
+```
+
 
 ## 效果
 
@@ -37,6 +37,13 @@ https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-png
 #### waline整个都不见了
 - 如果用的是safari，可能会出现“Failed to load resource: Load cannot follow more than 20 redirections”报错，建议换个浏览器看看能不能显示
 
+#### 截图中用到的blobcat表情
+
+[waline-blobcatemojis](https://github.com/sowhereso/waline-blobcatemojis)
+
+```markdown
+ https://cdn.jsdelivr.net/gh/sowhereso/waline-blobcatemojis@1.3/blobs
+ ````
 --- 
 # emoj.ml
 ### Welcome, friend.
