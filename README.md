@@ -1,22 +1,9 @@
 
 # Blob 表情包
 ## 来源
-表情包来自[blobs.gg] （https://blobs.gg）
-
-
-Emojis copied from Blob.cat.
-
-## 在 waline 评论系统中使用
-waline 是什么 / What is waline：https://waline.js.org/
-
-# Blobcat 表情包
-
-## 来源
 
 表情包来自 [Blob.cat](https://blob.cat) 实例。
-
 Emojis copied from [Blob.cat](https://blob.cat).
-
 
 ## 在 [waline](https://waline.js.org/)评论系统中使用
 
@@ -28,17 +15,17 @@ https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-gif
 ```
 
 ### Blob-png
-
 ``` markdown
 https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-png
 ```markdown
  https://cdn.jsdelivr.net/gh/sowhereso/waline-blobcatemojis@1.3/blobs
  ```
 
-
 ## 效果
-- gif（可以动，此图为截图而已）
+
+- gif（可以动，此图为静态截图）
 ![](https://raw.githubusercontent.com/norevi/image/main/img202110270347159.png)
+
 - png
 ![](https://raw.githubusercontent.com/norevi/image/main/img202110270348388.png)
 
