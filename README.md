@@ -12,12 +12,12 @@ Emojis copied from [Blob.cat](https://blob.cat).
 ### Blob-gif
 
 ``` markdown
-https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-gif
+https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-gif
 ```
 
 ### Blob-png
 ``` markdown
-https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@1.5/blobs-png
+https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-png
 ```
 
 
