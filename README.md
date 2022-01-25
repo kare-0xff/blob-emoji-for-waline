@@ -42,8 +42,8 @@ https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-png
 [waline-blobcatemojis](https://github.com/sowhereso/waline-blobcatemojis)
 
 ```markdown
- https://cdn.jsdelivr.net/gh/sowhereso/waline-blobcatemojis@1.3/blobs
- ````
+https://cdn.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs
+```
 --- 
 # emoj.ml
 ### Welcome, friend.
